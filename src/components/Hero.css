@@ -1,0 +1,37 @@
+.hero-content {
+    width: 667px;
+    text-align: center;
+
+    h1 {
+        font-size: 100px;
+        font-weight: 400px;
+        margin-bottom: 32px;
+        padding-top: 207px;
+    }
+
+    p {
+        width: 537px;
+        margin: auto;
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+
+    div {
+        display: flex;
+        justify-content: center;
+        gap: 16px;
+
+        .brown {
+            background: #AD343E;
+            border: 2px solid #AD343E;
+            color: white;
+
+        }
+    }
+}
+
+.hero .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

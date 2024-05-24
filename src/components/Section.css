@@ -1,0 +1,234 @@
+.sectio-bg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section {
+    width: 1600px;
+    height: 612px;
+    text-align: center;
+
+    h2 {
+        font-family: Playfair Display;
+        line-height: 60.5px;
+        text-align: center;
+        font-size: 55px;
+        font-weight: 500px;
+        padding-top: 92px;
+        margin-bottom: 57px;
+        color: #2C2F24;
+
+    }
+}
+
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 17px;
+    /* border: 1px solid red; */
+    padding-top: 217px 152px 120px;
+
+    .card-1 {
+        width: 306px;
+        height: 375px;
+        border: 1.5px solid #DBDFD0;
+        border-radius: 12px;
+
+        .Tea {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100px;
+            width: 100px;
+            border-radius: 50%;
+            background: rgba(128, 128, 128, 0.172);
+            color: #fff;
+            margin-top: 37px;
+            margin-left: 100px;
+
+        }
+
+        h3 {
+            font-family: DM Sans;
+            font-size: 24px;
+            font-weight: 700;
+            line-height: 30px;
+            letter-spacing: -0.03em;
+            text-align: center;
+            color: #2C2F24;
+            margin-bottom: 10px;
+            padding-top: 17px;
+        }
+
+        h4 {
+            font-family: DM Sans;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            text-align: center;
+            color: #414536;
+            width: 230px;
+            margin: auto
+        }
+
+        .button-menu {
+            margin-top: 40px;
+            background: none;
+            cursor: pointer;
+            color: #AD343E;
+        }
+    }
+
+    .card-2 {
+        width: 306px;
+        height: 375px;
+        border: 1.5px solid #DBDFD0;
+        border-radius: 12px;
+
+        .Tea {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100px;
+            width: 100px;
+            border-radius: 50%;
+            background: rgba(128, 128, 128, 0.172);
+            color: #fff;
+            margin-top: 37px;
+            margin-left: 100px;
+
+        }
+
+        h3 {
+            font-family: DM Sans;
+            font-size: 24px;
+            font-weight: 700;
+            line-height: 30px;
+            letter-spacing: -0.03em;
+            text-align: center;
+            color: #2C2F24;
+            margin-bottom: 10px;
+            padding-top: 17px;
+        }
+
+        h4 {
+            font-family: DM Sans;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            text-align: center;
+            color: #414536;
+            width: 230px;
+            margin: auto
+        }
+        .button-menu {
+            margin-top: 40px;
+            background: none;
+            cursor: pointer;
+            color: #AD343E;
+        }
+    }
+
+    .card-3 {
+        width: 306px;
+        height: 375px;
+        border: 1.5px solid #DBDFD0;
+        border-radius: 12px;
+
+        .Tea {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100px;
+            width: 100px;
+            border-radius: 50%;
+            background: rgba(128, 128, 128, 0.172);
+            color: #fff;
+            margin-top: 37px;
+            margin-left: 100px;
+
+        }
+
+        h3 {
+            font-family: DM Sans;
+            font-size: 24px;
+            font-weight: 700;
+            line-height: 30px;
+            letter-spacing: -0.03em;
+            text-align: center;
+            color: #2C2F24;
+            margin-bottom: 10px;
+            padding-top: 17px;
+        }
+
+        h4 {
+            font-family: DM Sans;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            text-align: center;
+            color: #414536;
+            width: 230px;
+            margin: auto
+        }
+
+        .button-menu {
+            margin-top: 40px;
+            background: none;
+            cursor: pointer;
+            color: #AD343E;
+        }
+    }
+
+    .card-4 {
+        width: 306px;
+        height: 375px;
+        border: 1.5px solid #DBDFD0;
+        border-radius: 12px;
+
+        .Tea {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100px;
+            width: 100px;
+            border-radius: 50%;
+            background: rgba(128, 128, 128, 0.172);
+            color: #fff;
+            margin-top: 37px;
+            margin-left: 100px;
+
+        }
+
+        h3 {
+            font-family: DM Sans;
+            font-size: 24px;
+            font-weight: 700;
+            line-height: 30px;
+            letter-spacing: -0.03em;
+            text-align: center;
+            color: #2C2F24;
+            margin-bottom: 10px;
+            padding-top: 17px;
+        }
+
+        h4 {
+            font-family: DM Sans;
+            font-size: 16px;
+            font-weight: 400;
+            line-height: 24px;
+            text-align: center;
+            color: #414536;
+            width: 230px;
+            margin: auto
+        }
+    }
+    .button-menu {
+        margin-top: 40px;
+        background: none;
+        cursor: pointer;
+        color: #AD343E;
+    }
+}
